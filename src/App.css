@@ -1,0 +1,33 @@
+
+  .App {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .card {
+    width: 500px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    font-size: 20px;
+  }
+
+  .author, .button-container {
+    text-align: right;
+    margin-right: 20px;
+    font-size: 30px;
+  }
+  
+  .button {
+    width: 90px;
+    height: 30px;
+    margin-top: 30px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  
+
+
